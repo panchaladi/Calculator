@@ -48,6 +48,6 @@ public class Main {
                 break;
         }
 
-        input.close();
     }
+    
 }
